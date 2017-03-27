@@ -1,0 +1,37 @@
+{
+  "name": "g2-vue",
+  "version": "0.1.1",
+  "description": "Factory wrapper for using G2 easily in a Vue Component.",
+  "keywords": [
+    "vue",
+    "vue-component",
+    "g2-vue",
+    "g2"
+  ],
+  "main": "./lib/g2-vue.js",
+  "scripts": {
+    "dev": "webpack-dev-server --config ./webpack.demo.config.js --inline --hot",
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "author": "fireyy (fireyy@gmail.com)",
+  "peerDependencies": {
+    "g2": ">=1.2.6 <3.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-latest": "^6.0.0",
+    "cross-env": "^3.0.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "g2": "^2.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.5.0",
+    "url-loader": "^0.5.8",
+    "vue": "^2.2.1",
+    "vue-loader": "^11.0.0",
+    "vue-template-compiler": "^2.2.1",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  }
+}
