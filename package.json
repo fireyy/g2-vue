@@ -1,6 +1,6 @@
 {
   "name": "g2-vue",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Factory wrapper for using G2 easily in a Vue Component.",
   "keywords": [
     "vue",
@@ -14,9 +14,6 @@
     "build": "webpack --config ./webpack.config.js"
   },
   "author": "fireyy (fireyy@gmail.com)",
-  "peerDependencies": {
-    "g2": ">=1.2.6 <3.0.0"
-  },
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
