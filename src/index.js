@@ -1,4 +1,4 @@
-import G2 from 'g2'
+import G2 from '@antv/g2'
 
 // 创建唯一的 ID
 let uniqueId = 0
