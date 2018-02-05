@@ -11,8 +11,6 @@ $ npm install @antv/g2 --save
 $ npm install g2-vue --save
 ```
 
-`g2-vue` works with a [peerDependencies](https://nodejs.org/en/blog/npm/peer-dependencies/) of `g2`, you can specify the version of `g2` in your `package.json`
-
 ## Usage
 
 ```html
