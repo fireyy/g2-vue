@@ -1,6 +1,6 @@
 {
   "name": "g2-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Factory wrapper for using G2 easily in a Vue Component.",
   "keywords": [
     "vue",
