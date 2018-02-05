@@ -7,7 +7,7 @@ Factory wrapper for using [G2](http://g2.alipay.com) easier in a Vue Component w
 ## Install
 
 ```bash
-$ npm install g2 --save
+$ npm install @antv/g2 --save
 $ npm install g2-vue --save
 ```
 
